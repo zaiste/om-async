@@ -1,0 +1,4 @@
+.DS_Store
+target/
+.lein-repl-history
+resources/public/js/
